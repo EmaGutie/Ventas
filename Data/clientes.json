@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "apellido": "Gómez",
+        "email": "juanperez@gmail.com",
+        "telefono": "555-1234",
+        "direccion": "Calle Falsa 123" 
+    },
+    {
+        "id": 2,
+        "nombre": "María López",
+        "apellido": "Martínez",
+        "email": "marialopez@gmail.com",
+        "telefono": "555-5678",
+        "direccion": "Avenida Siempre Viva 742"
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Sánchez",
+        "apellido": "Ramírez",
+        "email": "carlossanchez@gmail.com",
+        "telefono": "555-8765",
+        "direccion": "Boulevard de los Sueños Rotos 456"
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Torres",
+        "apellido": "Hernández",
+        "email": "anatorres@gmail.com",
+        "telefono": "555-4321",
+        "direccion": "Plaza de la Libertad 789"
+    },
+    {
+        "id": 5,
+        "nombre": "Luis García",
+        "apellido": "Pérez",
+        "email": "luisgarcia@gmail.com",
+        "telefono": "555-6789",
+        "direccion": "Calle de la Paz 321"
+    }
+]
