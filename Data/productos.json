@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Laptop HP Pavilion",
+    "precio": 799.99,
+    "fecha_ingreso": "2025-04-15",
+    "descripcion": "Laptop con procesador Intel i5 y 8GB de RAM."
+  },
+  {
+    "nombre": "Monitor Samsung 24\"",
+    "precio": 159.50,
+    "fecha_ingreso": "2025-04-18",
+    "descripcion": "Monitor LED de 24 pulgadas Full HD."
+  },
+  {
+    "nombre": "Teclado Mecánico Logitech",
+    "precio": 89.99,
+    "fecha_ingreso": "2025-04-10",
+    "descripcion": "Teclado retroiluminado con switches azules."
+  },
+  {
+    "nombre": "Mouse Inalámbrico Logitech",
+    "precio": 29.95,
+    "fecha_ingreso": "2025-04-22",
+    "descripcion": "Mouse óptico inalámbrico con batería recargable."
+  },
+  {
+    "nombre": "Disco Duro Externo 1TB",
+    "precio": 64.99,
+    "fecha_ingreso": "2025-04-08",
+    "descripcion": "Disco duro portátil USB 3.0 de alta velocidad."
+  },
+  {
+    "nombre": "Memoria USB 64GB",
+    "precio": 12.75,
+    "fecha_ingreso": "2025-04-20",
+    "descripcion": "Memoria flash USB de 64GB compatible con USB 3.1."
+  },
+  {
+    "nombre": "Impresora Epson EcoTank",
+    "precio": 199.00,
+    "fecha_ingreso": "2025-04-17",
+    "descripcion": "Impresora multifunción con sistema de tinta continua."
+  },
+  {
+    "nombre": "Router TP-Link AC1200",
+    "precio": 49.90,
+    "fecha_ingreso": "2025-04-12",
+    "descripcion": "Router inalámbrico de doble banda con 4 antenas."
+  },
+  {
+    "nombre": "Webcam Full HD Logitech",
+    "precio": 69.80,
+    "fecha_ingreso": "2025-04-19",
+    "descripcion": "Webcam con micrófono integrado y resolución 1080p."
+  },
+  {
+    "nombre": "Auriculares Sony WH-1000XM4",
+    "precio": 349.99,
+    "fecha_ingreso": "2025-04-21",
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido activa."
+  }
+]
